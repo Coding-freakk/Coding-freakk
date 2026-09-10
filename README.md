@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Ranjeet Kumar 👋
 
-<!--
-**Coding-freakk/Coding-freakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student at NITK, Surathkal  
+💻 Exploring Software Development  
+🚀 Learning by building, solving problems, and experimenting
 
-Here are some ideas to get you started:
+## 🛠️ Tech I'm Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- C++
+- Data Structures & Algorithms
+- Front-End Development
+- AI / Machine Learning
+
+## 🧠 Currently Working On
+
+- LeetCode & DSA
+- Python and C++ problem solving
+- Web development
+- Exploring AI/ML
+
+## 🎯 2030 Goal
+
+Become a strong software developer and build projects
+that solve real-world problems.
+
+> Code. Learn. Build. Repeat. ⚡
